@@ -1,0 +1,6 @@
+Html = Hyper text markup language , it is not a programming language
+CSS =  Cascading Style Sheets , it is used to style HTML pages
+
+Vscode is a good Text Editors
+Download vs code and install extensions like live server also
+for better coding
